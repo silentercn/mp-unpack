@@ -23,8 +23,8 @@ Windows
 
 <img src="mp-unpack-win.png" alt="windows解包截图" width="420" />
 
-#### 如何使用
-
+#### 公号    
+<img src="xdmj2022.jpeg" alt="公众号" height="110" />
 
 #### 项目推荐
 [微信小程序多端实时运行工具](https://github.com/wetools/wept)
