@@ -6,7 +6,7 @@
 参考博主的原创文章  
 > [以中银E路通小程序为例10分钟带你学会微信小程序的反编译](http://xuedingmiao.com/blog/xcx_unpack.html)
 
-#### 逆向教程小程序
+#### 逆向教程小程序(已封禁)
 <img src="http://cdn.xuedingmiao.com/nxjc.jpg" alt="逆向教程" height="185" />  
 
 #### [小程序逆向视频专栏](https://m.lizhiweike.com/channel2/1037814)
@@ -51,7 +51,10 @@ npm run build:win64
 解包时源文件请使用wxapkg文件  
 
 #### 公众号
-<img src="https://raw.githubusercontent.com/xuedingmiaojun/mp-unpack/master/gzh.jpg" alt="公众号" height="110" />
+<img src="https://raw.githubusercontent.com/xuedingmiaojun/mp-unpack/master/gzh.jpg" alt="公众号" height="110" />  
+
+备用  
+<img src="http://cdn.xuedingmiao.com/xdmj2022.jpeg" alt="公众号" height="110" />
 
 #### [Download Released App](https://github.com/xuedingmiaojun/mp-unpack/releases)
 
