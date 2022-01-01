@@ -54,7 +54,7 @@ npm run build:win64
 <img src="https://raw.githubusercontent.com/xuedingmiaojun/mp-unpack/master/gzh.jpg" alt="公众号" height="110" />  
 
 备用  
-<img src="http://cdn.xuedingmiao.com/xdmj2022.jpeg" alt="公众号" height="110" />
+<img src="https://raw.githubusercontent.com/xuedingmiaojun/mp-unpack/master/xdmj2022.jpeg" alt="公众号" height="110" />
 
 #### [Download Released App](https://github.com/xuedingmiaojun/mp-unpack/releases)
 
