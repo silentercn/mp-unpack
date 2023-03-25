@@ -14,6 +14,27 @@ this project will be deleted soon
 参考博主的原创文章  
 > [以中银E路通小程序为例10分钟带你学会微信小程序的反编译](http://xuedingmiao.com/blog/xcx_unpack.html)
 
+如何使用
+To clone and run this repository you’ll need Git and Node.js (which comes with npm) installed on your computer. From your command line:
+```
+# Clone this repository
+git clone https://github.com/xuedingmiaojun/mp-unpack.git
+# Go into the repository
+cd mp-unpack
+# Install dependencies and run the app
+npm install && cd tool/ && npm install 
+```
+To pack into an app, simply type one of these:
+
+```
+npm run build
+npm run build:mac
+npm run build:linux
+npm run build:win32
+npm run build:win64
+```
+解包时源文件请使用wxapkg文件
+
 #### 运行截图  
 
 Mac  
